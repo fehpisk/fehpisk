@@ -13,7 +13,7 @@
 - 🎀 Nome: Maria 
 - 🔭 Amo astrofísica
 - 📼 Estudando programação 
-
+- 💻 Desenvolvimento de Sistemas Etec-EAD 
 ---
 
 ## 🌷 Gráfico de contribuições (ondas)
@@ -25,7 +25,8 @@
 ---
 
 ## 🎀 Tecnologias favoritas
-
+<p>
+  
 </p>
 
 ---
