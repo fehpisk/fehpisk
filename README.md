@@ -25,8 +25,12 @@
 ---
 
 ## 🎀 Tecnologias favoritas
-<p>
-  
+  <p align="center">
+  <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-ffb6c1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://shields.io"/>
+
 </p>
 
 ---
