@@ -25,7 +25,10 @@
 ---
 
 ## 🎀 Tecnologias favoritas
-![Python](https://shields.io)
+<p align="center">
+  <img src="https://jsdelivr.net" alt="Python Logo" width="100" height="100">
+</p>
+
 
 
 ---
