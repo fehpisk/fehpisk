@@ -26,7 +26,7 @@
 
 ## 🎀 Tecnologias favoritas
 <p align="center">
-  <img src="https://jsdelivr.net" alt="Python Logo" width="100" height="100">
+ <img src="https://githubusercontent.com" alt="Python Logo" width="30" height="30"/>
 </p>
 
 
