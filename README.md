@@ -24,14 +24,14 @@
 
 
 ## 🎀 Tecnologias 
-<p> align="center">
+
 
 
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF85A2?style=for-the-badge&logo=css3&logoColor=white)
 
-</p>
+
 ---
 
 
